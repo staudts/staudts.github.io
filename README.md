@@ -1,2 +1,2 @@
 # staudts.github.io
-A webpage I made for a general Computer Science course.
+A webpage I made for a freshman-year, general Computer Science course.
