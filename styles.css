@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.synopsis {
+  font-style: italic;
+}
+
+a:link {
+  color: mediumseagreen;
+  text-decoration: none;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:hover {
+  color: mediumorchid;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+}
+
+img {
+  margin: 0 auto;
+}
